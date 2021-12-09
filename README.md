@@ -1,2 +1,2 @@
 # templates
-These templates I built for my portfolio .You can use all.
+These template I built for my portfolio .You can use it.
